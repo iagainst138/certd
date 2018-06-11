@@ -1,0 +1,12 @@
+*.swp
+out/*
+_scratch/
+*.key
+*.crt
+*.pyc
+*.exe
+builds/
+coverage
+pkg
+.cache
+src/vendor
